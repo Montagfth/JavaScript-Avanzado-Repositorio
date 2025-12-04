@@ -1,0 +1,36 @@
+{
+  "name": "finanzas_cli",
+  "version": "1.0.0",
+  "description": "Un CLI para gestionar finanzas personales (ingresos y gastos) con Node.js y TypeScript",
+  "main": "dist/index.js",
+  "bin": {
+    "finanzas": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "cli": "node dist/index.js",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": [
+    "cli",
+    "finanzas",
+    "typescript",
+    "nodejs",
+    "ingresos",
+    "gastos",
+    "ahorros"
+  ],
+  "author": "Diego",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "cli-table3": "^0.6.5",
+    "commander": "^14.0.1",
+    "exceljs": "^4.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {}
+}

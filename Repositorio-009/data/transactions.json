@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ffa6fdd7-bfa1-4488-a431-ffc0c96ae532",
+    "type": "ingreso",
+    "amount": 500,
+    "description": "Venta freelance",
+    "date": "2025-09-19T07:15:51.929Z"
+  },
+  {
+    "id": "98bb53cc-c5f9-4211-a711-b8d428a73338",
+    "type": "gasto",
+    "amount": 100,
+    "description": "Cena",
+    "date": "2025-09-19T07:16:19.601Z"
+  },
+  {
+    "id": "cd419f9d-d2e0-406e-aebc-f79bde80877e",
+    "type": "ingreso",
+    "amount": 500,
+    "description": "Venta freelance",
+    "date": "2025-09-19T07:20:10.820Z"
+  },
+  {
+    "id": "f7f6278f-196e-4726-8413-11ca0452f09b",
+    "type": "gasto",
+    "amount": 100,
+    "description": "Cena",
+    "date": "2025-09-19T07:20:15.193Z"
+  },
+  {
+    "id": "c8b8b6bb-b2f9-4483-9e01-6475b96b8eab",
+    "type": "ingreso",
+    "amount": 500,
+    "description": "Venta freelance",
+    "date": "2025-09-19T07:22:55.550Z"
+  },
+  {
+    "id": "3e456d6b-9fcc-4706-b794-139a2c114f06",
+    "type": "gasto",
+    "amount": 100,
+    "description": "Cena",
+    "date": "2025-09-19T07:22:59.130Z"
+  },
+  {
+    "id": "f7ecee37-1fae-4aef-b411-ffe5a9b911c6",
+    "type": "ingreso",
+    "amount": 500,
+    "description": "Venta freelance",
+    "date": "2025-09-19T07:24:56.858Z"
+  },
+  {
+    "id": "80ba527a-7125-44f8-a123-b8c04585e483",
+    "type": "gasto",
+    "amount": 100,
+    "description": "Cena",
+    "date": "2025-09-19T07:25:02.233Z"
+  },
+  {
+    "id": "813bf872-9b48-4317-aa3e-ef40b997bf87",
+    "type": "ingreso",
+    "amount": 500,
+    "description": "Venta freelance",
+    "date": "2025-09-19T07:27:43.031Z"
+  }
+]

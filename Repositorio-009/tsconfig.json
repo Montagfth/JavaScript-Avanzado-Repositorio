@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    /* File Layout */
+    "rootDir": "./src",        // Carpeta de entrada
+    "outDir": "./dist",        // Carpeta de salida
+
+    /* Environment Settings */
+    "module": "commonjs",      // Para Node.js (si quieres usar require/import sin líos)
+    "target": "ES2020",        // JS compatible con Node 14+
+    "lib": ["es2020"],         
+    "types": ["node"],         
+
+    /* Other Outputs */
+    "sourceMap": true,         // Útil para debug
+    "declaration": false,      
+
+    /* Stricter Typechecking Options */
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+
+    /* Recommended Options */
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": ["src"],          // Incluye solo lo que está en src
+  "exclude": ["node_modules"]  // Excluye dependencias
+}
